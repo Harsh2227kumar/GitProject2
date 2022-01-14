@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="verify_your_otp_the_lottery">Verify your OTP the lottery.</string>
+    <string name="verify_919394959697">Verify +919394959697</string>
+    <string name="verify">VerifY</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="verify">VerifY</string>
 </resources>
