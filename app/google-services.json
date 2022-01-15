@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256228815241",
+    "project_id": "chatsgo-690a1",
+    "storage_bucket": "chatsgo-690a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256228815241:android:5d3c6ac13665db577ab158",
+        "android_client_info": {
+          "package_name": "com.harsh.chatsgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256228815241-7bufcmb9kh91ljk0g08g81cqqvvlatp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyxjA5j6P7ToId2sg7Q6sUgLaCgleC0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256228815241-7bufcmb9kh91ljk0g08g81cqqvvlatp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
